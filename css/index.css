@@ -1,0 +1,15 @@
+
+.doge-image {
+    max-width: 400px;
+    transition: opacity 1s ease-out;
+}
+
+.rpg-text {
+    color: blue;
+}
+
+.rpg-container {
+    border: solid 2px gold;
+    padding: 100px;
+    margin: 100px;
+}
